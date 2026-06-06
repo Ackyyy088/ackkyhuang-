@@ -1,0 +1,12 @@
+# Local Netlify folder
+.netlify
+
+# Local CLI caches
+.npm-cache
+.netlify-home
+
+# Manual deployment bundle
+deploy
+
+# macOS metadata
+.DS_Store
